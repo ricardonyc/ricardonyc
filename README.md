@@ -10,9 +10,9 @@
 
 
 ## Let's Connect!
-<img align="left" alt="codeSTACKr | LinkedIn" width="36px" style='padding: 10px 10px 0 0' src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" />
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="36px" style='padding: 10px 10px 0 0' src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Codepen-512.png" />
+[<img align="left" alt="codeSTACKr | LinkedIn" width="36px" style='padding: 10px 10px 0 0' src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>](https://www.linkedin.com/in/ricardo67/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="36px" style='padding: 10px 10px 0 0' src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Codepen-512.png" />](https://codepen.io/nycrick)
 
 <br>
 <br>

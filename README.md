@@ -4,7 +4,7 @@
 - 🎯 2022 Goals: Contribute to Open Source projects and get a job in Software Development
 - 😎 Fun Facts: I enjoy photography and watching movies 
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardonyc&hide=prs&theme=radical&show_icons=true)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardonyc&hide=prs,issues&theme=radical&show_icons=true)
 
  
 ## Let's Connect!

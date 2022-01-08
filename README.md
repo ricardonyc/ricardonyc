@@ -1,5 +1,5 @@
-# __Hi there, I'm Ricardo, Welcome to my Github!__ 
 <img align="left" alt="Visual Studio Code" width="46px" style='padding: 10px 10px 0 0; display: inline;' src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" />
+# __Hi there, I'm Ricardo, Welcome to my Github!__ 
 - 📚 Currently learning everything, specifically JavaScript and React
 - 🤝 Interested in collaborating with others
 - 🎯 2022 Goals: Contribute to Open Source projects and get a job in Software Development

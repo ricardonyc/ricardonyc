@@ -2,7 +2,7 @@
 - 📚 Currently learning everything, specifically JavaScript and React
 - 🤝 Interested in collaborating with others
 - 🎯 2022 Goals: Contribute to Open Source projects and get a job in Software Development
-- 😎 Fun Facts: I enjoy photography and watching movies 
+- 😎 I enjoy photography and watching movies 
 
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardonyc&hide=prs&theme=radical&show_icons=true)
 

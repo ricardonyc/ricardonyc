@@ -34,4 +34,4 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardonyc&layout=compact&theme=radical&hide=html,css)](https://github.com/ricardonyc/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardonyc&layout=compact&hide=html)](https://github.com/ricardonyc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardonyc&layout=compact&hide=html,css)](https://github.com/ricardonyc/github-readme-stats)

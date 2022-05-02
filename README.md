@@ -2,7 +2,8 @@
 - 📚 Currently learning TypeScript and React
 - 🤝 Interested in collaborating with others
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardonyc&hide=prs&theme=radical&show_icons=true)
+<!-- ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardonyc&hide=prs&theme=radical&show_icons=true) -->
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardonyc&hide=prs&show_icons=true)
 
  
 ## Let's Connect!

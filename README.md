@@ -16,15 +16,15 @@
 <br>
 
 ## Languages and Tools Used
-<img align="left" alt="HTML5 logo" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3 logo" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<!-- <img align="left" alt="HTML5 logo" width="46px" style='padding: 10px 10px 0 0' src="./assets/html5.png" /> -->
+<!-- <img align="left" alt="CSS3 logo" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
 <img align="left" alt="Sass logo" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="javascript logo" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="javascript logo" width="46px" style='padding: 10px 10px 0 0' src="./assets/javascript.png" />
 <img align="left" alt="typescript logo" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="react logo" width="46px" style='padding: 10px 10px 0 0' src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-<!-- <img align="left" alt="Visual Studio Code" width="46px" style='padding: 10px 10px 0 0' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> -->
-<!-- <img align="left" alt="java logo" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> -->
-<img align="left" alt="vs code logo" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+<img align="left" alt="redux logo" width="46px" style='padding: 10px 10px 0 0' src="./assets/redux.png" />
+<!-- <img align="left" alt="node js logo" width="46px"  style='padding: 10px 10px 0 0' src="./assets/node-js.png" /> -->
+<!-- <img align="left" alt="java logo" width="46px" style='padding: 10px 10px 0 0' src="./assets/java.png" /> -->
 
 
 

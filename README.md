@@ -22,6 +22,7 @@
 <img align="left" alt="typescript logo" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="react logo" width="46px" style='padding: 10px 10px 0 0' src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="redux logo" width="46px" style='padding: 10px 10px 0 0' src="./assets/redux.png" />
+<img align="left" alt="redux logo" width="46px" style='padding: 10px 10px 0 0' src="./assets/python.png" />
 <!-- <img align="left" alt="node js logo" width="46px"  style='padding: 10px 10px 0 0' src="./assets/node-js.png" /> -->
 <!-- <img align="left" alt="java logo" width="46px" style='padding: 10px 10px 0 0' src="./assets/java.png" /> -->
 
